@@ -2,16 +2,16 @@
 
 | Part | Target Students                             | Topics                                                                                             |
 |------|---------------------------------------------|----------------------------------------------------------------------------------------------------|
-| 1    | All Students (2nd, 3rd, Final Year)         | Detailed Python Programming                                                                        |
-| 2    | 3rd Year, Final Year & Interested 2nd Years | Basics of Data Analytics, EDA, Mathematics behind ML, Data Analytics, Machine Learning              |
-| 3    | Final Year & Interested 2nd, 3rd Years      | Basics of Artificial Intelligence, Perceptrons, Theory, Large Language Models, and AI Techniques    |
+| 1    | All Students (S.E., T.E., B.E.)         | Detailed Python Programming                                                                        |
+| 2    | T.E. , B.E. & Interested S.E. s | Basics of Data Analytics, EDA, Mathematics behind ML, Data Analytics, Machine Learning              |
+| 3    | B.E. & Interested S.E., T.E. s      | Basics of Artificial Intelligence, Perceptrons, Theory, Large Language Models, and AI Techniques    |
 
 ---
 
 ## Detailed Syllabus
 
 ### **Part 1: Detailed Python Programming**
-**Target Students:** All Students (2nd, 3rd, Final Year)
+**Target Students:** All Students (S.E., T.E., B.E.)
 
 #### **1. Introduction to Python**
    - Setting up Python Environment (Anaconda, VS Code, PyCharm)
@@ -68,7 +68,7 @@
 ---
 
 ### **Part 2: Data Analytics and Machine Learning Foundations**
-**Target Students:** 3rd Year, Final Year & Interested 2nd Years
+**Target Students:** T.E, B.E. & Interested S.E. 
 
 #### **1. Introduction to Data Analytics**
    - Role of Data Analytics in Business and Engineering
@@ -80,24 +80,17 @@
 
 #### **3. Introduction to Probability and Statistics**
    - Descriptive Statistics: Mean, Median, Mode, Variance, Standard Deviation
-   - Probability Theory: Basics of Probability, Conditional Probability, Probability Distributions (Normal, Binomial, etc.)
+   - Probability Theory: Basics of Probability, Conditional Probability, Bayes' Theorem
 
-#### **4. Basic Linear Algebra for Machine Learning**
-   - Vectors and Matrices: Basics, Matrix Multiplication
-   - Eigenvalues and Eigenvectors
-   - Determinants and Inverses
 
-#### **5. Introduction to Calculus**
-   - Derivatives: Concept of Gradient, Gradient Descent Algorithm
-   - Partial Derivatives for Multivariable Functions
-
-#### **6. Machine Learning Overview**
-   - Supervised vs Unsupervised Learning
-   - Data Preprocessing for ML: Feature Scaling, Encoding Categorical Data
+#### **4. Machine Learning Overview**
+   - Supervised vs Unsupervised Learning vs Reinforcement Learning
+   - Data Preprocessing for ML: Feature Selection, Data Formatting, Encoding Categorical Data
    - Introduction to Regression: Simple Linear Regression, Polynomial Regression
    - Classification Techniques: Logistic Regression, Decision Trees, K-Nearest Neighbors (KNN)
+   - Ensemble Techniques: Stacking, Bagging, Boosting, Random Forest Algo.
 
-#### **7. Hands-on Machine Learning with `scikit-learn`**
+#### **5. Hands-on Machine Learning with `scikit-learn`**
    - Loading Datasets and Preprocessing
    - Implementing Regression and Classification Models
    - Model Evaluation: Confusion Matrix, Accuracy, Precision, Recall, F1-Score
@@ -105,7 +98,7 @@
 ---
 
 ### **Part 3: Artificial Intelligence and Advanced Topics**
-**Target Students:** Final Year & Interested 2nd, 3rd Years
+**Target Students:** B.E. & Interested S.E., T.E. s
 
 #### **1. Introduction to Artificial Intelligence**
    - Definition of AI and its Subfields
@@ -133,3 +126,17 @@
 #### **6. Ethical Considerations in AI**
    - AI Bias, Fairness, and Ethics
    - Explainability in AI Models
+
+---
+
+**Note :** The syllabus may change and new topics can be included as per the course's progress and the students' interests and at the end of each part/session assignments will be given to the students.
+
+---
+
+
+- Author : Vedant V. Gune
+- Mobile : +91-7057920012
+- Email : vedantgune@gmail.com
+- Date : 29-Sept-2024 Sunday
+
+
