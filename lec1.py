@@ -1,6 +1,6 @@
 # Data Types
 '''
-1) Integer - Numerical data wi,thout decimal pt.
+1) Integer - Numerical data wihthout decimal pt.
 2) Float - Numerical data with decimal pt.
 3) String - Anything wrapped "" / ''
 4) Boolean - True/False 
@@ -30,7 +30,7 @@ at_AVCOE = True
 
 
 # Operators
-# 1. Arithmetic (+, -, *, /, //, **)
+# 1. Arithmetic (+, -, *, /, //, %, **)
 # 2. Comparison / Logical (==, !=, <, >, <=, >=)
 # 3. Relational (and, or, not)
 
@@ -83,5 +83,4 @@ A  Y
 1  0
 '''
 
-age = 20
-print(18 <= age <= 75)
+print(not 1 < 5)
